@@ -1,0 +1,142 @@
+{
+  "S001": {
+    "name": "Rahul Sharma",
+    "age": 20,
+    "course": "Computer Science",
+    "email": "rahul@example.com",
+    "marks": 85
+  },
+  "S002": {
+    "name": "Priya Verma",
+    "age": 21,
+    "course": "Information Technology",
+    "email": "priya@example.com",
+    "marks": 92
+  },
+  "S003": {
+    "name": "Amit Kumar",
+    "age": 19,
+    "course": "Artificial Intelligence",
+    "email": "amit@example.com",
+    "marks": 78
+  },
+  "S004": {
+    "name": "Sneha Singh",
+    "age": 20,
+    "course": "Data Science",
+    "email": "sneha@example.com",
+    "marks": 88
+  },
+  "S005": {
+    "name": "Vikas Gupta",
+    "age": 22,
+    "course": "Computer Science",
+    "email": "vikas@example.com",
+    "marks": 75
+  },
+  "S006": {
+    "name": "Anjali Patel",
+    "age": 21,
+    "course": "Electronics",
+    "email": "anjali@example.com",
+    "marks": 90
+  },
+  "S007": {
+    "name": "Rohit Yadav",
+    "age": 20,
+    "course": "Mechanical Engineering",
+    "email": "rohit@example.com",
+    "marks": 82
+  },
+  "S008": {
+    "name": "Neha Mishra",
+    "age": 19,
+    "course": "Data Science",
+    "email": "neha@example.com",
+    "marks": 95
+  },
+  "S009": {
+    "name": "Karan Malhotra",
+    "age": 22,
+    "course": "Computer Science",
+    "email": "karan@example.com",
+    "marks": 69
+  },
+  "S010": {
+    "name": "Pooja Reddy",
+    "age": 20,
+    "course": "Artificial Intelligence",
+    "email": "pooja@example.com",
+    "marks": 87
+  },
+  "S011": {
+    "name": "Sahil Khan",
+    "age": 21,
+    "course": "Information Technology",
+    "email": "sahil@example.com",
+    "marks": 80
+  },
+  "S012": {
+    "name": "Meera Joshi",
+    "age": 19,
+    "course": "Electronics",
+    "email": "meera@example.com",
+    "marks": 93
+  },
+  "S013": {
+    "name": "Arjun Das",
+    "age": 22,
+    "course": "Mechanical Engineering",
+    "email": "arjun@example.com",
+    "marks": 72
+  },
+  "S014": {
+    "name": "Kavita Rao",
+    "age": 20,
+    "course": "Data Science",
+    "email": "kavita@example.com",
+    "marks": 89
+  },
+  "S015": {
+    "name": "Manish Tiwari",
+    "age": 21,
+    "course": "Computer Science",
+    "email": "manish@example.com",
+    "marks": 76
+  },
+  "S016": {
+    "name": "Simran Kaur",
+    "age": 19,
+    "course": "Artificial Intelligence",
+    "email": "simran@example.com",
+    "marks": 96
+  },
+  "S017": {
+    "name": "Deepak Saini",
+    "age": 22,
+    "course": "Information Technology",
+    "email": "deepak@example.com",
+    "marks": 84
+  },
+  "S018": {
+    "name": "Isha Kapoor",
+    "age": 20,
+    "course": "Electronics",
+    "email": "isha@example.com",
+    "marks": 91
+  },
+  "S019": {
+    "name": "Nikhil Jain",
+    "age": 21,
+    "course": "Data Science",
+    "email": "nikhil@example.com",
+    "marks": 67
+  },
+  "S020": {
+    "name": "Ayesha Ali",
+    "age": 20,
+    "course": "Computer Science",
+    "email": "ayesha@example.com",
+    "marks": 86
+  }
+}

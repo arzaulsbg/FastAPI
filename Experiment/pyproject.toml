@@ -1,0 +1,15 @@
+[project]
+name = "flaskapi"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi[standard]>=0.163.1",
+]
+
+[tool.uv.workspace]
+members = [
+    "FastapiWIthPostgree",
+    "FastWithPostgreSQL",
+]

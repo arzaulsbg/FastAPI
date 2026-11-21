@@ -1,0 +1,16 @@
+student_id,name,age,department,semester,email,marks,city
+101,Aarav Sharma,20,Computer Science,3rd,aarav101@example.com,85.5,Amritsar
+102,Priya Singh,21,Information Technology,4th,priya102@example.com,91.0,Delhi
+103,Rahul Verma,19,Computer Science,2nd,rahul103@example.com,78.0,Jaipur
+104,Sneha Gupta,20,Electronics,3rd,sneha104@example.com,88.5,Lucknow
+105,Kabir Khan,22,Mechanical,5th,kabir105@example.com,72.0,Mumbai
+106,Ananya Patel,18,Computer Science,1st,ananya106@example.com,95.0,Ahmedabad
+107,Vikram Das,21,Civil,4th,vikram107@example.com,67.5,Kolkata
+108,Meera Joshi,20,Information Technology,3rd,meera108@example.com,82.0,Pune
+109,Rohan Mehta,19,Electrical,2nd,rohan109@example.com,76.5,Chandigarh
+110,Ishita Roy,22,Computer Science,5th,ishita110@example.com,89.0,Bengaluru
+111,Aditya Kumar,20,Mechanical,3rd,aditya111@example.com,80.0,Patna
+112,Neha Reddy,21,Information Technology,4th,neha112@example.com,93.5,Hyderabad
+113,Sahil Bansal,18,Civil,1st,sahil113@example.com,69.0,Indore
+114,Pooja Nair,19,Electronics,2nd,pooja114@example.com,84.0,Kochi
+115,Arjun Malhotra,22,Computer Science,5th,arjun115@example.com,87.5,Amritsar
